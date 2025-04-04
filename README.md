@@ -42,9 +42,8 @@ Our AI features use random APIs to run, so sometimes they may be down.
 -***`Fill in all the required variables and deploy the bot.`***
 
 
-# Credits
 
-Thanks to...
+Thanks to...pgffddvhybb
 
 <div align="center">
 
